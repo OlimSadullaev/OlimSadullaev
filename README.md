@@ -2,6 +2,7 @@
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently working as a .Net developer
 - 💞️ I’m looking to collaborate on ASP.NET Core projects
+- 💞️ I’m looking to collaborate on ASP.NET Core projects
 - 📫 How to reach me sadullaevolim080@gmail.com
 
 <!---
