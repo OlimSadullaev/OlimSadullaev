@@ -4,6 +4,6 @@
 - 💞️ I’m looking to collaborate on ASP.NET Core projects
 - 💞️ I’m looking to collaborate on Xamarin projects
 - 📫 Gmail: sadullaevolim080@gmail.com
-- 📫 Telegram: @sadullaev_olim111
+- 📫 Telegram: @OlimSadullaev
 
 
